@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'tPortfolio' target in the 'tPortfolio' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

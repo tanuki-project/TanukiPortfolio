@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "たぬきぽーとふぉりお";
+CFBundleShortVersionString = "1.8.0";
+CFBundleGetInfoString = "たぬきぽーとふぉりお for Mac Versio 1.8.0, Copyright © 2011-2021 tanuki-project All Rights Reserved.";
+NSHumanReadableCopyright = "Copyright © tanuki-project All Rights Reserved.";

@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "TanukiPortfolio";
+CFBundleShortVersionString = "1.8.0";
+CFBundleGetInfoString = "TanukiPortfolio for Mac Version 1.8.0, Copyright © 2011-2021 tanuki-project All Rights Reserved.";
+NSHumanReadableCopyright = "Copyright © tanuki-project All Rights Reserved.";
